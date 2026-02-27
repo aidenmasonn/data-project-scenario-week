@@ -1,0 +1,501 @@
+original_index,true_label,true_class,predicted_label,predicted_class,correct
+8259,0,T-shirt/top,0,T-shirt/top,1
+10419,0,T-shirt/top,0,T-shirt/top,1
+9157,0,T-shirt/top,0,T-shirt/top,1
+1731,0,T-shirt/top,0,T-shirt/top,1
+15497,0,T-shirt/top,0,T-shirt/top,1
+19326,0,T-shirt/top,0,T-shirt/top,1
+12954,0,T-shirt/top,0,T-shirt/top,1
+14248,0,T-shirt/top,0,T-shirt/top,1
+5737,0,T-shirt/top,0,T-shirt/top,1
+9205,0,T-shirt/top,0,T-shirt/top,1
+7290,0,T-shirt/top,0,T-shirt/top,1
+13872,0,T-shirt/top,0,T-shirt/top,1
+8789,0,T-shirt/top,0,T-shirt/top,1
+1308,0,T-shirt/top,0,T-shirt/top,1
+15374,0,T-shirt/top,0,T-shirt/top,1
+10636,0,T-shirt/top,0,T-shirt/top,1
+10181,0,T-shirt/top,7,Sneaker,0
+19829,0,T-shirt/top,0,T-shirt/top,1
+4125,0,T-shirt/top,0,T-shirt/top,1
+16600,0,T-shirt/top,0,T-shirt/top,1
+11422,0,T-shirt/top,0,T-shirt/top,1
+16301,0,T-shirt/top,0,T-shirt/top,1
+3405,0,T-shirt/top,0,T-shirt/top,1
+13933,0,T-shirt/top,0,T-shirt/top,1
+17582,0,T-shirt/top,0,T-shirt/top,1
+17784,0,T-shirt/top,0,T-shirt/top,1
+8885,0,T-shirt/top,0,T-shirt/top,1
+1837,0,T-shirt/top,0,T-shirt/top,1
+16900,0,T-shirt/top,0,T-shirt/top,1
+18252,0,T-shirt/top,0,T-shirt/top,1
+12802,0,T-shirt/top,3,Dress,0
+13008,0,T-shirt/top,0,T-shirt/top,1
+14628,0,T-shirt/top,0,T-shirt/top,1
+9212,0,T-shirt/top,0,T-shirt/top,1
+19093,0,T-shirt/top,0,T-shirt/top,1
+14359,0,T-shirt/top,0,T-shirt/top,1
+1170,0,T-shirt/top,0,T-shirt/top,1
+15003,0,T-shirt/top,0,T-shirt/top,1
+9068,0,T-shirt/top,0,T-shirt/top,1
+17107,0,T-shirt/top,0,T-shirt/top,1
+11179,0,T-shirt/top,0,T-shirt/top,1
+4766,0,T-shirt/top,0,T-shirt/top,1
+1647,0,T-shirt/top,0,T-shirt/top,1
+15314,0,T-shirt/top,0,T-shirt/top,1
+15085,0,T-shirt/top,0,T-shirt/top,1
+3745,0,T-shirt/top,0,T-shirt/top,1
+7499,0,T-shirt/top,0,T-shirt/top,1
+2439,0,T-shirt/top,0,T-shirt/top,1
+1846,0,T-shirt/top,0,T-shirt/top,1
+16532,0,T-shirt/top,0,T-shirt/top,1
+11053,1,Trouser,1,Trouser,1
+8994,1,Trouser,1,Trouser,1
+16128,1,Trouser,3,Dress,0
+16851,1,Trouser,1,Trouser,1
+13007,1,Trouser,1,Trouser,1
+7712,1,Trouser,1,Trouser,1
+5657,1,Trouser,1,Trouser,1
+6501,1,Trouser,1,Trouser,1
+19846,1,Trouser,1,Trouser,1
+8318,1,Trouser,1,Trouser,1
+15142,1,Trouser,1,Trouser,1
+115,1,Trouser,1,Trouser,1
+11109,1,Trouser,1,Trouser,1
+15224,1,Trouser,1,Trouser,1
+15094,1,Trouser,1,Trouser,1
+4262,1,Trouser,1,Trouser,1
+12819,1,Trouser,1,Trouser,1
+1686,1,Trouser,1,Trouser,1
+9061,1,Trouser,1,Trouser,1
+12486,1,Trouser,3,Dress,0
+11890,1,Trouser,1,Trouser,1
+14918,1,Trouser,1,Trouser,1
+11113,1,Trouser,1,Trouser,1
+4979,1,Trouser,6,Shirt,0
+740,1,Trouser,1,Trouser,1
+2564,1,Trouser,1,Trouser,1
+8383,1,Trouser,1,Trouser,1
+16296,1,Trouser,1,Trouser,1
+15525,1,Trouser,1,Trouser,1
+2542,1,Trouser,1,Trouser,1
+10917,1,Trouser,1,Trouser,1
+3973,1,Trouser,3,Dress,0
+13500,1,Trouser,1,Trouser,1
+1518,1,Trouser,1,Trouser,1
+15620,1,Trouser,1,Trouser,1
+8686,1,Trouser,1,Trouser,1
+9789,1,Trouser,1,Trouser,1
+16664,1,Trouser,1,Trouser,1
+572,1,Trouser,2,Pullover,0
+11138,1,Trouser,1,Trouser,1
+2117,1,Trouser,1,Trouser,1
+12747,1,Trouser,1,Trouser,1
+15418,1,Trouser,1,Trouser,1
+11324,1,Trouser,1,Trouser,1
+4392,1,Trouser,1,Trouser,1
+704,1,Trouser,1,Trouser,1
+5033,1,Trouser,1,Trouser,1
+10793,1,Trouser,1,Trouser,1
+19648,1,Trouser,1,Trouser,1
+3622,1,Trouser,1,Trouser,1
+14256,2,Pullover,0,T-shirt/top,0
+3923,2,Pullover,2,Pullover,1
+8587,2,Pullover,6,Shirt,0
+15170,2,Pullover,4,Coat,0
+3542,2,Pullover,4,Coat,0
+19003,2,Pullover,2,Pullover,1
+13085,2,Pullover,2,Pullover,1
+8593,2,Pullover,2,Pullover,1
+12300,2,Pullover,4,Coat,0
+13604,2,Pullover,6,Shirt,0
+14060,2,Pullover,2,Pullover,1
+11523,2,Pullover,4,Coat,0
+5049,2,Pullover,6,Shirt,0
+9552,2,Pullover,2,Pullover,1
+8196,2,Pullover,2,Pullover,1
+17652,2,Pullover,4,Coat,0
+5936,2,Pullover,2,Pullover,1
+6051,2,Pullover,4,Coat,0
+416,2,Pullover,2,Pullover,1
+18781,2,Pullover,4,Coat,0
+14544,2,Pullover,4,Coat,0
+13898,2,Pullover,2,Pullover,1
+15292,2,Pullover,0,T-shirt/top,0
+14376,2,Pullover,4,Coat,0
+12366,2,Pullover,4,Coat,0
+17612,2,Pullover,4,Coat,0
+6475,2,Pullover,4,Coat,0
+12831,2,Pullover,2,Pullover,1
+5215,2,Pullover,2,Pullover,1
+1594,2,Pullover,2,Pullover,1
+15067,2,Pullover,4,Coat,0
+1881,2,Pullover,6,Shirt,0
+1882,2,Pullover,6,Shirt,0
+16892,2,Pullover,4,Coat,0
+8973,2,Pullover,2,Pullover,1
+5085,2,Pullover,2,Pullover,1
+2856,2,Pullover,2,Pullover,1
+10618,2,Pullover,2,Pullover,1
+2505,2,Pullover,2,Pullover,1
+5111,2,Pullover,2,Pullover,1
+9459,2,Pullover,4,Coat,0
+16020,2,Pullover,6,Shirt,0
+8725,2,Pullover,6,Shirt,0
+11353,2,Pullover,4,Coat,0
+15553,2,Pullover,6,Shirt,0
+1666,2,Pullover,2,Pullover,1
+8763,2,Pullover,2,Pullover,1
+14966,2,Pullover,2,Pullover,1
+6961,2,Pullover,2,Pullover,1
+8400,2,Pullover,6,Shirt,0
+2141,3,Dress,3,Dress,1
+19821,3,Dress,3,Dress,1
+5761,3,Dress,1,Trouser,0
+19255,3,Dress,3,Dress,1
+6182,3,Dress,3,Dress,1
+12994,3,Dress,0,T-shirt/top,0
+215,3,Dress,1,Trouser,0
+6070,3,Dress,3,Dress,1
+18143,3,Dress,3,Dress,1
+6189,3,Dress,3,Dress,1
+2153,3,Dress,3,Dress,1
+5484,3,Dress,3,Dress,1
+16403,3,Dress,3,Dress,1
+19116,3,Dress,0,T-shirt/top,0
+15185,3,Dress,4,Coat,0
+12727,3,Dress,3,Dress,1
+9133,3,Dress,3,Dress,1
+16108,3,Dress,3,Dress,1
+7257,3,Dress,3,Dress,1
+10608,3,Dress,3,Dress,1
+2336,3,Dress,3,Dress,1
+12510,3,Dress,3,Dress,1
+14411,3,Dress,3,Dress,1
+5082,3,Dress,0,T-shirt/top,0
+10625,3,Dress,3,Dress,1
+4810,3,Dress,3,Dress,1
+4727,3,Dress,3,Dress,1
+18471,3,Dress,3,Dress,1
+8537,3,Dress,3,Dress,1
+5868,3,Dress,3,Dress,1
+13263,3,Dress,2,Pullover,0
+5461,3,Dress,3,Dress,1
+16051,3,Dress,3,Dress,1
+824,3,Dress,3,Dress,1
+18109,3,Dress,3,Dress,1
+10799,3,Dress,1,Trouser,0
+2752,3,Dress,3,Dress,1
+4619,3,Dress,6,Shirt,0
+6965,3,Dress,3,Dress,1
+6042,3,Dress,3,Dress,1
+17597,3,Dress,3,Dress,1
+18889,3,Dress,3,Dress,1
+3969,3,Dress,3,Dress,1
+14496,3,Dress,6,Shirt,0
+13133,3,Dress,0,T-shirt/top,0
+439,3,Dress,3,Dress,1
+12177,3,Dress,3,Dress,1
+10460,3,Dress,3,Dress,1
+2723,3,Dress,0,T-shirt/top,0
+10136,3,Dress,3,Dress,1
+3338,4,Coat,4,Coat,1
+362,4,Coat,4,Coat,1
+14559,4,Coat,4,Coat,1
+9892,4,Coat,4,Coat,1
+19082,4,Coat,2,Pullover,0
+8481,4,Coat,2,Pullover,0
+9823,4,Coat,6,Shirt,0
+6362,4,Coat,6,Shirt,0
+13178,4,Coat,1,Trouser,0
+8160,4,Coat,4,Coat,1
+5508,4,Coat,4,Coat,1
+11590,4,Coat,2,Pullover,0
+11378,4,Coat,4,Coat,1
+16480,4,Coat,4,Coat,1
+18347,4,Coat,6,Shirt,0
+17250,4,Coat,4,Coat,1
+1689,4,Coat,4,Coat,1
+2725,4,Coat,4,Coat,1
+2558,4,Coat,6,Shirt,0
+8746,4,Coat,6,Shirt,0
+5526,4,Coat,2,Pullover,0
+464,4,Coat,4,Coat,1
+10188,4,Coat,4,Coat,1
+8654,4,Coat,4,Coat,1
+19173,4,Coat,4,Coat,1
+13322,4,Coat,0,T-shirt/top,0
+14122,4,Coat,4,Coat,1
+2490,4,Coat,4,Coat,1
+2550,4,Coat,4,Coat,1
+1729,4,Coat,4,Coat,1
+3907,4,Coat,4,Coat,1
+878,4,Coat,4,Coat,1
+10323,4,Coat,6,Shirt,0
+6055,4,Coat,4,Coat,1
+19546,4,Coat,4,Coat,1
+15077,4,Coat,4,Coat,1
+6134,4,Coat,4,Coat,1
+15970,4,Coat,2,Pullover,0
+18325,4,Coat,4,Coat,1
+15140,4,Coat,4,Coat,1
+5926,4,Coat,4,Coat,1
+9815,4,Coat,4,Coat,1
+3790,4,Coat,4,Coat,1
+2436,4,Coat,4,Coat,1
+18503,4,Coat,4,Coat,1
+19473,4,Coat,4,Coat,1
+264,4,Coat,4,Coat,1
+13738,4,Coat,4,Coat,1
+2583,4,Coat,4,Coat,1
+4505,4,Coat,6,Shirt,0
+16875,5,Sandal,5,Sandal,1
+4958,5,Sandal,7,Sneaker,0
+18772,5,Sandal,7,Sneaker,0
+18068,5,Sandal,5,Sandal,1
+9120,5,Sandal,7,Sneaker,0
+17190,5,Sandal,7,Sneaker,0
+14207,5,Sandal,5,Sandal,1
+9302,5,Sandal,3,Dress,0
+1310,5,Sandal,5,Sandal,1
+18264,5,Sandal,5,Sandal,1
+8457,5,Sandal,7,Sneaker,0
+11542,5,Sandal,5,Sandal,1
+7115,5,Sandal,7,Sneaker,0
+10489,5,Sandal,7,Sneaker,0
+2879,5,Sandal,5,Sandal,1
+3490,5,Sandal,5,Sandal,1
+19507,5,Sandal,5,Sandal,1
+1153,5,Sandal,5,Sandal,1
+2915,5,Sandal,7,Sneaker,0
+393,5,Sandal,5,Sandal,1
+8151,5,Sandal,5,Sandal,1
+3110,5,Sandal,5,Sandal,1
+2375,5,Sandal,7,Sneaker,0
+5464,5,Sandal,5,Sandal,1
+9576,5,Sandal,7,Sneaker,0
+4735,5,Sandal,5,Sandal,1
+10861,5,Sandal,5,Sandal,1
+5781,5,Sandal,5,Sandal,1
+12800,5,Sandal,5,Sandal,1
+18742,5,Sandal,5,Sandal,1
+3933,5,Sandal,5,Sandal,1
+2328,5,Sandal,5,Sandal,1
+14716,5,Sandal,7,Sneaker,0
+2390,5,Sandal,5,Sandal,1
+16318,5,Sandal,7,Sneaker,0
+6262,5,Sandal,7,Sneaker,0
+6487,5,Sandal,5,Sandal,1
+18104,5,Sandal,5,Sandal,1
+4006,5,Sandal,5,Sandal,1
+2135,5,Sandal,7,Sneaker,0
+3061,5,Sandal,5,Sandal,1
+5385,5,Sandal,5,Sandal,1
+11931,5,Sandal,5,Sandal,1
+16775,5,Sandal,5,Sandal,1
+3274,5,Sandal,7,Sneaker,0
+18284,5,Sandal,5,Sandal,1
+11787,5,Sandal,7,Sneaker,0
+16569,5,Sandal,5,Sandal,1
+17445,5,Sandal,5,Sandal,1
+7384,5,Sandal,5,Sandal,1
+6535,6,Shirt,4,Coat,0
+2843,6,Shirt,3,Dress,0
+12490,6,Shirt,6,Shirt,1
+11965,6,Shirt,2,Pullover,0
+16949,6,Shirt,0,T-shirt/top,0
+7475,6,Shirt,4,Coat,0
+12175,6,Shirt,6,Shirt,1
+3747,6,Shirt,0,T-shirt/top,0
+15307,6,Shirt,0,T-shirt/top,0
+7751,6,Shirt,6,Shirt,1
+15526,6,Shirt,4,Coat,0
+10705,6,Shirt,1,Trouser,0
+17120,6,Shirt,0,T-shirt/top,0
+6816,6,Shirt,0,T-shirt/top,0
+13369,6,Shirt,2,Pullover,0
+13627,6,Shirt,6,Shirt,1
+4935,6,Shirt,2,Pullover,0
+10131,6,Shirt,6,Shirt,1
+6211,6,Shirt,0,T-shirt/top,0
+6655,6,Shirt,0,T-shirt/top,0
+4814,6,Shirt,0,T-shirt/top,0
+10198,6,Shirt,6,Shirt,1
+9623,6,Shirt,2,Pullover,0
+7721,6,Shirt,4,Coat,0
+15299,6,Shirt,2,Pullover,0
+8704,6,Shirt,8,Bag,0
+14600,6,Shirt,6,Shirt,1
+19123,6,Shirt,2,Pullover,0
+19038,6,Shirt,4,Coat,0
+9254,6,Shirt,6,Shirt,1
+7508,6,Shirt,6,Shirt,1
+15737,6,Shirt,6,Shirt,1
+1236,6,Shirt,6,Shirt,1
+12025,6,Shirt,4,Coat,0
+16317,6,Shirt,0,T-shirt/top,0
+11426,6,Shirt,6,Shirt,1
+5532,6,Shirt,6,Shirt,1
+8389,6,Shirt,0,T-shirt/top,0
+13504,6,Shirt,0,T-shirt/top,0
+18463,6,Shirt,6,Shirt,1
+7019,6,Shirt,3,Dress,0
+14435,6,Shirt,2,Pullover,0
+3401,6,Shirt,2,Pullover,0
+12517,6,Shirt,6,Shirt,1
+9766,6,Shirt,2,Pullover,0
+15914,6,Shirt,6,Shirt,1
+2920,6,Shirt,4,Coat,0
+5165,6,Shirt,0,T-shirt/top,0
+16546,6,Shirt,6,Shirt,1
+8770,6,Shirt,0,T-shirt/top,0
+10004,7,Sneaker,7,Sneaker,1
+2204,7,Sneaker,7,Sneaker,1
+14478,7,Sneaker,7,Sneaker,1
+13515,7,Sneaker,7,Sneaker,1
+4826,7,Sneaker,7,Sneaker,1
+17798,7,Sneaker,7,Sneaker,1
+15201,7,Sneaker,7,Sneaker,1
+12261,7,Sneaker,7,Sneaker,1
+14492,7,Sneaker,7,Sneaker,1
+2258,7,Sneaker,7,Sneaker,1
+9218,7,Sneaker,7,Sneaker,1
+10084,7,Sneaker,7,Sneaker,1
+9496,7,Sneaker,7,Sneaker,1
+2445,7,Sneaker,7,Sneaker,1
+1587,7,Sneaker,7,Sneaker,1
+1609,7,Sneaker,7,Sneaker,1
+9990,7,Sneaker,7,Sneaker,1
+15723,7,Sneaker,7,Sneaker,1
+11946,7,Sneaker,7,Sneaker,1
+15892,7,Sneaker,7,Sneaker,1
+18301,7,Sneaker,7,Sneaker,1
+13290,7,Sneaker,7,Sneaker,1
+6557,7,Sneaker,7,Sneaker,1
+3179,7,Sneaker,7,Sneaker,1
+15577,7,Sneaker,7,Sneaker,1
+10925,7,Sneaker,7,Sneaker,1
+18171,7,Sneaker,7,Sneaker,1
+15406,7,Sneaker,7,Sneaker,1
+3216,7,Sneaker,5,Sandal,0
+18266,7,Sneaker,7,Sneaker,1
+16540,7,Sneaker,7,Sneaker,1
+16269,7,Sneaker,7,Sneaker,1
+890,7,Sneaker,7,Sneaker,1
+9517,7,Sneaker,7,Sneaker,1
+11464,7,Sneaker,7,Sneaker,1
+12945,7,Sneaker,7,Sneaker,1
+2631,7,Sneaker,7,Sneaker,1
+8983,7,Sneaker,7,Sneaker,1
+18018,7,Sneaker,7,Sneaker,1
+14666,7,Sneaker,7,Sneaker,1
+14290,7,Sneaker,7,Sneaker,1
+14714,7,Sneaker,7,Sneaker,1
+4021,7,Sneaker,7,Sneaker,1
+1730,7,Sneaker,7,Sneaker,1
+14868,7,Sneaker,9,Ankle boot,0
+11142,7,Sneaker,7,Sneaker,1
+4508,7,Sneaker,7,Sneaker,1
+13510,7,Sneaker,7,Sneaker,1
+8190,7,Sneaker,7,Sneaker,1
+145,7,Sneaker,7,Sneaker,1
+19670,8,Bag,8,Bag,1
+8960,8,Bag,7,Sneaker,0
+13153,8,Bag,8,Bag,1
+2096,8,Bag,8,Bag,1
+15308,8,Bag,8,Bag,1
+15380,8,Bag,8,Bag,1
+8890,8,Bag,8,Bag,1
+6142,8,Bag,8,Bag,1
+10723,8,Bag,8,Bag,1
+794,8,Bag,8,Bag,1
+4816,8,Bag,8,Bag,1
+5794,8,Bag,8,Bag,1
+2207,8,Bag,8,Bag,1
+13071,8,Bag,8,Bag,1
+18108,8,Bag,8,Bag,1
+7697,8,Bag,3,Dress,0
+17868,8,Bag,8,Bag,1
+14305,8,Bag,8,Bag,1
+17286,8,Bag,3,Dress,0
+13420,8,Bag,8,Bag,1
+18952,8,Bag,8,Bag,1
+19795,8,Bag,8,Bag,1
+322,8,Bag,8,Bag,1
+582,8,Bag,5,Sandal,0
+13413,8,Bag,8,Bag,1
+5625,8,Bag,8,Bag,1
+801,8,Bag,8,Bag,1
+16485,8,Bag,8,Bag,1
+1776,8,Bag,2,Pullover,0
+5780,8,Bag,8,Bag,1
+476,8,Bag,8,Bag,1
+2760,8,Bag,8,Bag,1
+16989,8,Bag,8,Bag,1
+15310,8,Bag,6,Shirt,0
+16018,8,Bag,8,Bag,1
+254,8,Bag,8,Bag,1
+12807,8,Bag,8,Bag,1
+10060,8,Bag,8,Bag,1
+5952,8,Bag,8,Bag,1
+4910,8,Bag,8,Bag,1
+12260,8,Bag,5,Sandal,0
+2883,8,Bag,8,Bag,1
+13143,8,Bag,8,Bag,1
+17108,8,Bag,8,Bag,1
+8354,8,Bag,8,Bag,1
+8538,8,Bag,8,Bag,1
+18238,8,Bag,8,Bag,1
+13936,8,Bag,8,Bag,1
+15995,8,Bag,8,Bag,1
+4079,8,Bag,8,Bag,1
+8350,9,Ankle boot,9,Ankle boot,1
+866,9,Ankle boot,9,Ankle boot,1
+9228,9,Ankle boot,9,Ankle boot,1
+18806,9,Ankle boot,9,Ankle boot,1
+1819,9,Ankle boot,9,Ankle boot,1
+12577,9,Ankle boot,9,Ankle boot,1
+8920,9,Ankle boot,9,Ankle boot,1
+10235,9,Ankle boot,9,Ankle boot,1
+6041,9,Ankle boot,9,Ankle boot,1
+11400,9,Ankle boot,9,Ankle boot,1
+5131,9,Ankle boot,9,Ankle boot,1
+13807,9,Ankle boot,9,Ankle boot,1
+11245,9,Ankle boot,9,Ankle boot,1
+7363,9,Ankle boot,9,Ankle boot,1
+10256,9,Ankle boot,9,Ankle boot,1
+12949,9,Ankle boot,9,Ankle boot,1
+19213,9,Ankle boot,9,Ankle boot,1
+15042,9,Ankle boot,9,Ankle boot,1
+89,9,Ankle boot,9,Ankle boot,1
+11963,9,Ankle boot,9,Ankle boot,1
+5037,9,Ankle boot,9,Ankle boot,1
+13815,9,Ankle boot,9,Ankle boot,1
+4953,9,Ankle boot,9,Ankle boot,1
+1417,9,Ankle boot,9,Ankle boot,1
+15371,9,Ankle boot,9,Ankle boot,1
+8128,9,Ankle boot,9,Ankle boot,1
+10738,9,Ankle boot,9,Ankle boot,1
+3047,9,Ankle boot,9,Ankle boot,1
+9103,9,Ankle boot,9,Ankle boot,1
+10726,9,Ankle boot,9,Ankle boot,1
+11855,9,Ankle boot,7,Sneaker,0
+9065,9,Ankle boot,9,Ankle boot,1
+2972,9,Ankle boot,2,Pullover,0
+10740,9,Ankle boot,9,Ankle boot,1
+13855,9,Ankle boot,9,Ankle boot,1
+7498,9,Ankle boot,9,Ankle boot,1
+17201,9,Ankle boot,9,Ankle boot,1
+3483,9,Ankle boot,7,Sneaker,0
+11614,9,Ankle boot,9,Ankle boot,1
+17319,9,Ankle boot,9,Ankle boot,1
+14552,9,Ankle boot,9,Ankle boot,1
+4427,9,Ankle boot,9,Ankle boot,1
+13853,9,Ankle boot,9,Ankle boot,1
+3258,9,Ankle boot,9,Ankle boot,1
+8897,9,Ankle boot,9,Ankle boot,1
+10072,9,Ankle boot,9,Ankle boot,1
+1062,9,Ankle boot,9,Ankle boot,1
+19410,9,Ankle boot,9,Ankle boot,1
+18770,9,Ankle boot,9,Ankle boot,1
+3647,9,Ankle boot,9,Ankle boot,1

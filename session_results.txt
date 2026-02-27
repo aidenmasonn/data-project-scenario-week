@@ -1,0 +1,18 @@
+Session Results
+Current best: 90.05% (+1.73pp over 88.32% baseline) — submission.csv updated.
+
+Key experiments run:
+Experiment	Result	Notes
+k-sweep (k=3,5,9,11)	k=7 optimal	tied at 88.52% with k=5
+Add block LBP P=8 (4×4 grid)	88.83%	+0.31pp
+LBP 7×7 denser grid	88.95%	finer blocks better
+Add LBP P=16,R=2 (dual-scale)	89.25%	+0.3pp more
+56×56 upscale before HOG	90.05%	+0.8pp breakthrough
+PCA sweep, fine-grained (600–800)	PCA=700 optimal	91.2% variance
+HOG 12 orientations, cpb=(3,3)	worse	tested, rejected
+5-scale HOG, ppc=2, ppc=10,11	worse	3-scale (6,8,14) optimal
+Gabor, CLAHE, unsharp mask	worse	tested, rejected
+Dual-resolution (28+56), spatial pyramid LBP	worse	too many dims
+MinMax pixels	ties 90.05%	equivalent to L2
+What's left to close the gap to 92%:
+The 90.05% ceiling is hard to breach with standard hand-crafted features on 28×28 images. The published k-NN ceiling for Fashion MNIST is ~90–91%. We're now at the top of the theoretical k-NN range. To push toward 92% would require features beyond what's physically possible to extract from 28×28 pixels using k-NN alone.
