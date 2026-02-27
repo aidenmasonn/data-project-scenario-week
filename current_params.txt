@@ -1,0 +1,40 @@
+CURRENT PARAMETER CONFIGURATION
+================================
+Best 80/20 accuracy: 90.05%
+
++------------------------+-------------------------------------------+----------+
+| Parameter              | Value                                     | Category |
++------------------------+-------------------------------------------+----------+
+| K (neighbours)         | 7                                         | k-NN     |
+| metric                 | cosine                                    | k-NN     |
+| weights                | distance                                  | k-NN     |
+| algorithm              | brute                                     | k-NN     |
++------------------------+-------------------------------------------+----------+
+| USE_PCA                | True                                      | PCA      |
+| PCA_COMPONENTS         | 700                                       | PCA      |
+| variance retained      | ~91.2%                                    | PCA      |
++------------------------+-------------------------------------------+----------+
+| upscale resolution     | 56 x 56 (from 28x28)                      | HOG      |
+| anti_aliasing          | True                                      | HOG      |
+| HOG ppc scale 1        | (6, 6)  → 2304 dims                       | HOG      |
+| HOG ppc scale 2        | (8, 8)  → 1296 dims                       | HOG      |
+| HOG ppc scale 3        | (14, 14) →  324 dims                      | HOG      |
+| HOG cells_per_block    | (2, 2)  (all scales)                      | HOG      |
+| HOG orientations       | 9       (all scales)                      | HOG      |
+| HOG normalisation      | L2 (post-concat via normalize)            | HOG      |
++------------------------+-------------------------------------------+----------+
+| LBP scale 1            | P=8,  R=1.0, method=uniform               | LBP      |
+| LBP scale 2            | P=16, R=2.0, method=uniform               | LBP      |
+| LBP block grid         | 7 x 7  (4x4 px blocks on 28x28)          | LBP      |
+| LBP scale 1 dims       | 49 blocks × 10 bins = 490 dims            | LBP      |
+| LBP scale 2 dims       | 49 blocks × 18 bins = 882 dims            | LBP      |
+| LBP normalisation      | L2 (per-component via normalize)          | LBP      |
++------------------------+-------------------------------------------+----------+
+| raw pixels             | L2-normalised 28x28 → 784 dims            | Pixels   |
++------------------------+-------------------------------------------+----------+
+| total feature dims     | 2304 + 1296 + 324 + 490 + 882 + 784      | Pipeline |
+|                        | = 6080 dims (before PCA)                  |          |
+| final normalisation    | L2 on full concatenated vector            | Pipeline |
+| train/test split       | 80/20 stratified                          | Pipeline |
+| random seed            | 42                                        | Pipeline |
++------------------------+-------------------------------------------+----------+
